@@ -12,12 +12,12 @@ An easy way to get the required dependencies is using [Anaconda](http://continuu
 
 Acknowledgements would be highly appreciated; for academic citation please use:
 
-Afik, E. [Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging](http://www.nature.com/articles/srep13584). Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015).
+Afik, E. Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging. Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015).
 
 
 ##### Related projects and publications:
 
-+ E. Afik, Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging. Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015)
++ E. Afik, [Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging](http://www.nature.com/articles/srep13584). Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015)
 + E. Afik and V. Steinberg. [Pair dispersion in a chaotic flow reveals the role of the memory of
 initial velocity](http://arxiv.org/abs/1502.02818). _ArXiv e-prints arXiv:1502.02818_. submitted.
 + [particle-tracking](https://github.com/eldad-a/particle-tracking) -- A linking algorithm for particle tracking in n-dimensions, implementing a kinematic model and a memory feature to account for occasional misses.
