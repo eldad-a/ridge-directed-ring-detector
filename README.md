@@ -13,3 +13,9 @@ An easy way to get the required dependencies is using [Anaconda](http://continuu
 Acknowledgements would be highly appreciated; for academic citation please use:
 
 [Afik, E. Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging. Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015)](http://www.nature.com/articles/srep13584).
+
+
+##### Related projects and publications:
+
++ [E. Afik and V. Steinberg. Pair dispersion in a chaotic flow reveals the role of the memory of
+initial velocity. _ArXiv e-prints arXiv:1502.02818_. submitted.](http://arxiv.org/abs/1502.02818)
