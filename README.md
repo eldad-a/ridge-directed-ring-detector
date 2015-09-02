@@ -17,5 +17,8 @@ Acknowledgements would be highly appreciated; for academic citation please use:
 
 ##### Related projects and publications:
 
-+ [E. Afik and V. Steinberg. Pair dispersion in a chaotic flow reveals the role of the memory of
-initial velocity. _ArXiv e-prints arXiv:1502.02818_. submitted.](http://arxiv.org/abs/1502.02818)
++ Afik, E. [Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging](http://www.nature.com/articles/srep13584). Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015)
++ E. Afik and V. Steinberg. [Pair dispersion in a chaotic flow reveals the role of the memory of
+initial velocity](http://arxiv.org/abs/1502.02818). _ArXiv e-prints arXiv:1502.02818_. submitted.
++ [particle-tracking](https://github.com/eldad-a/particle-tracking) -- A linking algorithm for particle tracking in n-dimensions, implementing a kinematic model and a memory feature to account for occasional misses.
++ [natural-cubic-smoothing-splines](https://github.com/eldad-a/natural-cubic-smoothing-splines) -- a natural cubic smoothing splines module to smooth-out noise and obtain an estimate of the first two derivatives, i.e. velocity and acceleration in the case of a particle trajectory.
