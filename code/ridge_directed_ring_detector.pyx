@@ -4,7 +4,13 @@
 
 ################################################################################
 # filename: ridge_directed_ring_detector.pyx
-#  
+# 
+# For academic citation please use:
+#     Afik, E. 
+#     Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging.
+#     Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015).
+# 
+#
 #  Copyright (c) 2012, Eldad Afik
 #  All rights reserved.
 #  
@@ -286,7 +292,7 @@ cpdef ridge_circle_hough_transform(DTYPE_t [:,:] Lxx,
                              DTYPE_t [:,:] Lyy, 
                              DTYPE_t [:,:] Lxy, 
                              DTYPE_t [:,:] curv, 
-                             int curv_thresh=-20,
+                             DTYPE_t curv_thresh=-20,
                              RIJ_t Rmin=5,
                              RIJ_t Rmax=55):
 
@@ -981,7 +987,7 @@ cpdef directed_ridge_detector(DTYPE_t [:,:] Lxx,
                               DTYPE_t [:,:] Lyy, 
                               DTYPE_t [:,:] Lxy, 
                               DTYPE_t [:,:] curv, 
-                              int curv_thresh=-20):
+                              DTYPE_t curv_thresh=-20):
 
     assert Lxx is not None and Lyy is not None and Lxy is not None and\
             curv is not None
