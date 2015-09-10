@@ -4,6 +4,7 @@
 
 ################################################################################
 # filename: ridge_directed_ring_detector.pyx
+# first online: https://github.com/eldad-a/ridge-directed-ring-detector
 # 
 # For academic citation please use:
 #     Afik, E. 
