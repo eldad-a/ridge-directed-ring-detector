@@ -21,4 +21,6 @@ Afik, E. Robust and highly performant ring detection algorithm for 3d particle t
 + E. Afik and V. Steinberg. [Pair dispersion in a chaotic flow reveals the role of the memory of
 initial velocity](http://arxiv.org/abs/1502.02818). _ArXiv e-prints arXiv:1502.02818_. submitted.
 + [particle-tracking](https://github.com/eldad-a/particle-tracking) -- A linking algorithm for particle tracking in n-dimensions, implementing a kinematic model and a memory feature to account for occasional misses.
++ E. Afik, A. Lamura, and V. Steinberg. [Long-range hydrodynamic effect due to a single
+vesicle in linear flow](http://dx.doi.org/10.1209/0295-5075/113/38003). EPL (Europhysics Letters), 113(3):38003, Feb 2016. (using the directed ridge detection analysis)
 + [natural-cubic-smoothing-splines](https://github.com/eldad-a/natural-cubic-smoothing-splines) -- a natural cubic smoothing splines module to smooth-out noise and obtain an estimate of the first two derivatives, i.e. velocity and acceleration in the case of a particle trajectory.
