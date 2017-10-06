@@ -18,8 +18,7 @@ Afik, E. Robust and highly performant ring detection algorithm for 3d particle t
 ##### Related projects and publications:
 
 + E. Afik, [Robust and highly performant ring detection algorithm for 3d particle tracking using 2d microscope imaging](http://www.nature.com/articles/srep13584). Sci. Rep. 5, 13584; doi: 10.1038/srep13584 (2015)
-+ E. Afik and V. Steinberg. [Pair dispersion in a chaotic flow reveals the role of the memory of
-initial velocity](http://arxiv.org/abs/1502.02818). _ArXiv e-prints arXiv:1502.02818_. submitted.
++ E. Afik and V. Steinberg. [On the role of initial velocities in pair dispersion in a microfluidic chaotic flow](https://www.nature.com/articles/s41467-017-00389-8). _Nature Communications_ __8__, Article number: 468 (2017) [doi: 10.1038/s41467-017-00389-8](http://dx.doi.org/10.1038/s41467-017-00389-8).
 + E. Afik, A. Lamura, and V. Steinberg. [Long-range hydrodynamic effect due to a single
 vesicle in linear flow](http://dx.doi.org/10.1209/0295-5075/113/38003). EPL (Europhysics Letters), 113(3):38003, Feb 2016. [using the directed ridge detection analysis]
 + [particle-tracking](https://github.com/eldad-a/particle-tracking) -- A linking algorithm for particle tracking in n-dimensions, implementing a kinematic model and a memory feature to account for occasional misses.
