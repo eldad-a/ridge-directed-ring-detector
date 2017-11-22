@@ -368,7 +368,7 @@ cpdef ridge_circle_hough_transform(DTYPE_t [:,:] Lxx,
                     r = r_+Rmin
                     ## do not need to check for above origin due to the unsign:
                     #if (x<0) | (x>=Nrows) | (y<0) | (y>=Ncols): break
-                    if (x>=Nrows) | (y>=Ncols): break
+                    if (x>=Nrows-1) | (y>=Ncols-1): break  ## avoid outer frame error
 
                     votes[counter] = coord2rij(r,x,y)
                     counter+=1
