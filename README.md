@@ -8,6 +8,11 @@ The source for the ring detection algorithm described in [Sci. Rep. 5, 13584; do
 
 Some usage examples can be found in the accompanying ipython-notebook `code/demo.ipynb`; a static view is available [here](http://nbviewer.ipython.org/github/eldad-a/ridge-directed-ring-detector/blob/master/code/demo.ipynb);
 
+A demo data and video are availabe at:
+Afik, Eldad (2021): ridge directed ring detector. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5119804.v1 
+
+The video can be found [here](https://youtu.be/gQwwyDdqIbw) as well.
+
 An easy way to get the required dependencies is using [Anaconda](http://continuum.io/downloads), which is cross-platform, or any other Python distribution which includes [Cython](http://cython.org/), [Scipy](http://cython.org/) and [OpenCV](http://opencv.org/).
 
 Acknowledgements would be highly appreciated; for academic citation please use:
